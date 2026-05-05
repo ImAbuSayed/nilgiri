@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Nilgiri |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | May 06, 2026 |
+| Lyric Writing Date | May 05, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/nilgiri/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> অন্ধকারে খুঁজি আমি তোমার ওই চোখ
+> পাহাড়ের বুকে যেন প্রেমের কোনো শ্লোক
+> হৃদয়ের গভীরে শুধু তোমারই নাম
+> বুকের ভেতর জমে আছে অসীম এক টান
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
