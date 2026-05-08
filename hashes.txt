@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Nilgiri
+
+This log tracks the cryptographic history and versioning for the song **Nilgiri** (nilgiri).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T17:41:52.948930 | `v1` | `a44e5e32a652642a908c7d6e32d8409491b06c6bc770a06e4f346ca06601aeb8` | `a356361d72a40c2cf0412bf9f45b9d9c0f84eaebf655eed3e63b6226a14fff4e` | `2026-05-08_nilgiri-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
